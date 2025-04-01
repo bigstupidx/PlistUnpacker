@@ -3,3 +3,10 @@
 /packages/
 /settings/
 /temp/
+/*.csproj
+/.vs/PlistUnpacker/v16/*.suo
+/.vs/TextureUnpacker/v16/*.suo
+/*.vsconfig
+/Logs/*.log
+/*.sln
+/obj/Debug/*.cache

@@ -1,16 +1,18 @@
 **TextureUnpacker**  
 
-基于 Unity 2018.2.11f1  
+Based on Unity 2018.2.11f1  
 
-拿了即用的成品下载： https://blog.csdn.net/NRatel/article/details/85009462  
-核心算法讲解： https://blog.csdn.net/NRatel/article/details/85017491
+1、copy plist&png to Resources folder
+2、select plist&png file
+3、right click mouse，you will see ![](1.png)
 
-**功能:** plist+png 拆图及还原。
+1、Plist to Atlas:
+    make the png to a spritealtas for unity use.
 
-**待做事项:**  
-1、更多版本plist的支持。  
-2、mac平台的支持。  
-3、界面美化。  
+2、Plist to png(file):
+    split the big png to small pieces( saved in Project_Root/Sprites/)
 
-4、多边形裁剪的支持。
+3、Atlas to png(file):
+    split the unity atlas to small pieces( saved in Project_Root/Sprites/)
 
+![](2.png)

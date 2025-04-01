@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: d79c5801ec86c0441a32fd8a9a51fa1d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SettlementForm_0
+    21300002: SettlementForm_1
+    21300004: SettlementForm_2
+    21300006: particle_ribbon_1.png
+    21300008: particle_ribbon_2.png
+    21300010: particle_ribbon_3.png
+    21300012: particle_ribbon_4.png
+    21300014: particle_ribbon_5.png
+    21300016: particle_ribbon_6.png
+    21300018: settlement_big_cup.png
+    21300020: settlement_crown.png
+    21300022: settlement_cup.png
+    21300024: settlement_cup_bg.png
+    21300026: settlement_cup_bg_1.png
+    21300028: settlement_cup_bg_2.png
+    21300030: settlement_flag.png
+    21300032: settlement_flag_2.png
+    21300034: settlement_glow_purple.png
+    21300036: settlement_glow_yellow.png
+    21300038: settlement_icon_pumpkin.png
+    21300040: settlement_progress_bg.png
+    21300042: settlement_split.png
+    21300044: particle_ribbon_1
+    21300046: particle_ribbon_2
+    21300048: particle_ribbon_3
+    21300050: particle_ribbon_4
+    21300052: particle_ribbon_5
+    21300054: particle_ribbon_6
+    21300056: settlement_big_cup
+    21300058: settlement_crown
+    21300060: settlement_cup
+    21300062: settlement_cup_bg
+    21300064: settlement_cup_bg_1
+    21300066: settlement_cup_bg_2
+    21300068: settlement_flag
+    21300070: settlement_flag_2
+    21300072: settlement_glow_purple
+    21300074: settlement_glow_yellow
+    21300076: settlement_icon_pumpkin
+    21300078: settlement_progress_bg
+    21300080: settlement_split
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: particle_ribbon_1
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 48
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3d5e9e9d852654781693a69bbf4079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_ribbon_2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 76
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3485686cfc5908942a3a5e0e00e91d73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_ribbon_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 44
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3568f806dca03d44f94df2f320a2c259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_ribbon_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 19
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ad1f739026d5b4998e1b89d441e4c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_ribbon_5
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 67
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407c2d33a063cc746ae4489e3c5e98d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_ribbon_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 46
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b1dc6bef1bcb04f8cd4a782c95d6f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_big_cup
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 52
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f5bfe6bb6f43b4d822f4faba0181a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_crown
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 34
+        width: 129
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed50b1c0ca3ee548af9dc4d051c5190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_cup
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 89
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d242ec20d9252e46b9b83c23a519138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_cup_bg
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 4
+        width: 159
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4986fac2bf68845a246b3f7d7cbe48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_cup_bg_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 187
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc29f3e335672ea42b34eccaad1ef295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_cup_bg_2
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 135
+        width: 187
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525890b3fe42baf428fa4c9a0700f37c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_flag
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 642
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa0edfc99e4d474898db731e9067ca1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_flag_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 642
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1e0ffaafd69c248955c09eae0dd6f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_glow_purple
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 482
+        width: 718
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b75dcc3f7330e4ca36de24af31b53d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_glow_yellow
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 198
+        width: 197
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0085d294a61e6684095dd67e3c9b5c4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_icon_pumpkin
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2753dc1087a89b64c8e4b48de8836cae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_progress_bg
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 129
+        width: 78
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0499763e4ef348a4d8720cef29fcb27b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settlement_split
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 144
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31204a45f75bca44a816032f400d931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4d0ca44b14faf384cb79658f97173543
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
