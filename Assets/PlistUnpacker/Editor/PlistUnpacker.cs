@@ -118,7 +118,7 @@ public class PlistUnpacker : MonoBehaviour {
             sampleWidth = frame.size.height;
             sampleHeight = frame.size.width;
         }
-        Texture2D destTexture = new Texture2D(sampleWidth, sampleHeight);
+        Texture2D destTexture = new Texture2D(frame.isRotated ? sampleHeight : sampleWidth, frame.isRotated ? sampleWidth : sampleHeight);
         //起始位置（Y轴需变换，且受旋转影响）。
         int startPosX = frame.startPos.x;
         int startPosY = bigTexture.height - (frame.startPos.y + sampleHeight);
@@ -128,7 +128,11 @@ public class PlistUnpacker : MonoBehaviour {
         for (int w = 0; w < sampleWidth; w++) {
             for (int h = 0; h < sampleHeight; h++) {
                 int index = h * sampleWidth + w;
-                destTexture.SetPixel(w, h, colors[index]);
+                if (frame.isRotated) {
+                    destTexture.SetPixel(sampleHeight - h, w, colors[index]);
+                } else {
+                    destTexture.SetPixel(w, h, colors[index]);
+                }
             }
         }
         destTexture.Apply();
